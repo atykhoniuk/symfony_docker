@@ -1,7 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ComposerSettings">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="921f928e-fd52-41c3-a6ff-7232dbeb9ecc" name="Changes" comment="Init commit">
+      <change afterPath="$PROJECT_DIR$/app/.phpunit.result.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/es6-promise/es6-promise.auto.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fetch/fetch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/400.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/700.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-400-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-400-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-700-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-700-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-ext-400-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-ext-400-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-ext-700-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-cyrillic-ext-700-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-400-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-400-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-700-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-700-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-ext-400-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-ext-400-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-ext-700-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-greek-ext-700-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-hebrew-400-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-hebrew-400-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-hebrew-700-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-hebrew-700-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-400-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-400-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-700-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-700-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-ext-400-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-ext-400-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-ext-700-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-latin-ext-700-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-math-400-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-math-400-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-math-700-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-math-700-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-symbols-400-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-symbols-400-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-symbols-700-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-symbols-700-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-vietnamese-400-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-vietnamese-400-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-vietnamese-700-normal.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/fonts/open-sans/files/open-sans-vietnamese-700-normal.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/graphiql-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/graphiql/graphiql.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/graphiql/graphiql.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/graphql-playground-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/graphql-playground/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/graphql-playground/middleware.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/init-common-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/init-graphiql.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/init-graphql-playground.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/init-redoc-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/init-swagger-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/logo-header.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/react/react-dom.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/react/react.production.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/redoc/redoc.standalone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/swagger-ui/oauth2-redirect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/swagger-ui/swagger-ui-bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/swagger-ui/swagger-ui-standalone-preset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/swagger-ui/swagger-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/swagger-ui/swagger-ui.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/apiplatform/webby.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/nelmioapidoc/init-redocly-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/nelmioapidoc/init-swagger-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/nelmioapidoc/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/nelmioapidoc/redocly/redoc.standalone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/nelmioapidoc/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/nelmioapidoc/swagger-ui/swagger-ui-bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/nelmioapidoc/swagger-ui/swagger-ui-bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/nelmioapidoc/swagger-ui/swagger-ui-standalone-preset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/nelmioapidoc/swagger-ui/swagger-ui-standalone-preset.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/nelmioapidoc/swagger-ui/swagger-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/public/bundles/nelmioapidoc/swagger-ui/swagger-ui.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/fixtures/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/migrations/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/ApiResource/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/app/composer.json</pharConfigPath>
     <execution />
   </component>
-  <component name="PropertiesComponent">{}</component>
+  <component name="DockerExecCommands">
+    <ExecCommand>
+      <option name="command" value="bash" />
+    </ExecCommand>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/app" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "atykhoniuk"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/atykhoniuk/symfony_docker.git",
+    "accountId": "bcdb5a07-1a8b-40f7-b5e5-c2edf36fabdc"
+  }
+}]]></component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.3.9/bin/php" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2jSdWCd58ppzMupi9G8K2QaL5el" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/oleksandr.tyk/PhpstormProjects/symfony_docker/app/config/packages",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "php.override.implement.member.chooser.php.doc": "NONE",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/config/packages" />
+      <recent name="$PROJECT_DIR$/app/config/routes" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/app/phpunit.xml.dist" scope="XML" use_alternative_configuration_file="true" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PS-241.17890.8" />
+        <option value="bundled-php-predefined-ba97393d7c68-48a1a656d44e-com.jetbrains.php.sharedIndexes-PS-241.17890.8" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="921f928e-fd52-41c3-a6ff-7232dbeb9ecc" name="Changes" comment="" />
+      <created>1721384442032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721384442032</updated>
+      <workItem from="1721384443064" duration="31757000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init commit">
+      <option name="closed" value="true" />
+      <created>1721469847134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721469847134</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Init commit">
+      <option name="closed" value="true" />
+      <created>1721470309331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721470309331</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
+  </component>
 </project>
